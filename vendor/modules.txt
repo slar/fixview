@@ -1,0 +1,8 @@
+# github.com/quickfixgo/quickfix v0.6.0
+github.com/quickfixgo/quickfix
+github.com/quickfixgo/quickfix/datadictionary
+github.com/quickfixgo/quickfix/config
+github.com/quickfixgo/quickfix/enum
+github.com/quickfixgo/quickfix/internal
+# github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24
+github.com/shopspring/decimal
